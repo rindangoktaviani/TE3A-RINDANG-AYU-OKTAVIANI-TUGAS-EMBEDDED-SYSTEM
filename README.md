@@ -1,3 +1,3 @@
-# TUGAS-EMBEDDED-SYSTEM
-Semua tugas ada di masing-masing branches
+# TUGAS EMBEDDED SYSTEM
+Semua tugas ada di branches.
 Terima kasih.
