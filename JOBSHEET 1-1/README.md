@@ -28,3 +28,15 @@ Mengirim Pesan yang Berbeda Ke Beberapa Board ESP32
 
 https://user-images.githubusercontent.com/118655374/210944667-da228bcd-d7e1-4922-9262-0a6c8f707391.mp4
 
+One-Way, Many-to-One Communication\
+
+https://user-images.githubusercontent.com/118655374/210946158-57d9617e-f25a-4074-86f5-b2c31051276f.mp4
+
+Two-Way Communication
+
+https://user-images.githubusercontent.com/118655374/210947631-33d2c544-2995-41c9-8156-f200ab261912.mp4
+
+https://user-images.githubusercontent.com/118655374/210947657-b60c4bca-f785-4b39-abca-3e5bec6c9daa.mp4
+
+### KESIMPULAN
+ESP-NOW adalah sebuah fitur yang dapat digunakan untuk menghubungkan beberapa ESP32 agar dapat berkirim data satu sama lain.
